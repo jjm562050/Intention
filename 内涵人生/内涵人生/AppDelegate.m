@@ -38,7 +38,7 @@
     //左边视图
     LeftViewController *left = [[LeftViewController alloc] init];
     //右边视图
-    RightViewController *right = [[RightViewController alloc] init];
+    //RightViewController *right = [[RightViewController alloc] init];
     
     MMDrawerController *drawer = [[MMDrawerController alloc] initWithCenterViewController:mainTabbar leftDrawerViewController:left rightDrawerViewController:nil];
     

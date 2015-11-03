@@ -52,6 +52,8 @@
 
 - (void)viewWillAppear:(BOOL)animated
 {
+    [super viewWillAppear:YES];
+    
     //设置导航栏为半透明
     self.navigationController.navigationBar.translucent = YES;
 }

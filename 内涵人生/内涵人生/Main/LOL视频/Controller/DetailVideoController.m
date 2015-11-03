@@ -53,6 +53,8 @@
 
 - (void)viewWillAppear:(BOOL)animated
 {
+    [super viewWillAppear:YES];
+    
     //导航栏不透明
     self.navigationController.navigationBar.translucent = NO;
     

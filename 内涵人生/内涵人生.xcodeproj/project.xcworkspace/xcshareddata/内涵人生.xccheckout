@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>181A98E5-ED61-4EEA-8C13-E45A84E79501</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>内涵人生</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>826B496BDFD598E3FC949471B9591B8D802DF158</key>
-		<string>https://github.com/jjm562050/XM3.git</string>
+		<key>C3F78769F25CD18889FD38541A1E9C3858DC0AD1</key>
+		<string>https://github.com/jjm562050/Intention.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>内涵人生/内涵人生.xcodeproj/project.xcworkspace</string>
+	<string>内涵人生/内涵人生.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>826B496BDFD598E3FC949471B9591B8D802DF158</key>
+		<key>C3F78769F25CD18889FD38541A1E9C3858DC0AD1</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jjm562050/XM3.git</string>
+	<string>https://github.com/jjm562050/Intention.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>826B496BDFD598E3FC949471B9591B8D802DF158</string>
+	<string>C3F78769F25CD18889FD38541A1E9C3858DC0AD1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>826B496BDFD598E3FC949471B9591B8D802DF158</string>
+			<string>C3F78769F25CD18889FD38541A1E9C3858DC0AD1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>XM3</string>
+			<string>Intention</string>
 		</dict>
 	</array>
 </dict>

@@ -44,6 +44,8 @@
 
 - (void)viewDidAppear:(BOOL)animated
 {
+    [super viewDidAppear:YES];
+    
     _cacheLabel.text = [NSString stringWithFormat:@"%.2fMB",[self countCacheFileSize]];
     
     [_tableView reloadData];
