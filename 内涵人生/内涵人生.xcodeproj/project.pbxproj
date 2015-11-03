@@ -126,7 +126,6 @@
 		1857FDA81BDF6544001D5133 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD1C1BDF6544001D5133 /* BaseNavigationController.m */; };
 		1857FDA91BDF6544001D5133 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD1E1BDF6544001D5133 /* BaseViewController.m */; };
 		1857FDAA1BDF6544001D5133 /* LeftViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD201BDF6544001D5133 /* LeftViewController.m */; };
-		1857FDAB1BDF6544001D5133 /* RightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD221BDF6544001D5133 /* RightViewController.m */; };
 		1857FDAC1BDF6544001D5133 /* AFNateWorking.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD251BDF6544001D5133 /* AFNateWorking.m */; };
 		1857FDAD1BDF6544001D5133 /* DetailVideoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD2A1BDF6544001D5133 /* DetailVideoController.m */; };
 		1857FDAE1BDF6544001D5133 /* LolVideoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1857FD2C1BDF6544001D5133 /* LolVideoController.m */; };
@@ -373,8 +372,6 @@
 		1857FD1E1BDF6544001D5133 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
 		1857FD1F1BDF6544001D5133 /* LeftViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftViewController.h; sourceTree = "<group>"; };
 		1857FD201BDF6544001D5133 /* LeftViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftViewController.m; sourceTree = "<group>"; };
-		1857FD211BDF6544001D5133 /* RightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightViewController.h; sourceTree = "<group>"; };
-		1857FD221BDF6544001D5133 /* RightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightViewController.m; sourceTree = "<group>"; };
 		1857FD241BDF6544001D5133 /* AFNateWorking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNateWorking.h; sourceTree = "<group>"; };
 		1857FD251BDF6544001D5133 /* AFNateWorking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNateWorking.m; sourceTree = "<group>"; };
 		1857FD291BDF6544001D5133 /* DetailVideoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailVideoController.h; sourceTree = "<group>"; };
@@ -893,8 +890,6 @@
 				1857FD1E1BDF6544001D5133 /* BaseViewController.m */,
 				1857FD1F1BDF6544001D5133 /* LeftViewController.h */,
 				1857FD201BDF6544001D5133 /* LeftViewController.m */,
-				1857FD211BDF6544001D5133 /* RightViewController.h */,
-				1857FD221BDF6544001D5133 /* RightViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -1376,7 +1371,6 @@
 				1857FD931BDF6544001D5133 /* SDWebImageDecoder.m in Sources */,
 				1857FD961BDF6544001D5133 /* SDWebImageManager.m in Sources */,
 				1857FD841BDF6544001D5133 /* MJRefreshNormalHeader.m in Sources */,
-				1857FDAB1BDF6544001D5133 /* RightViewController.m in Sources */,
 				1857FDA11BDF6544001D5133 /* UIAlertView+AFNetworking.m in Sources */,
 				1857FD7A1BDF6544001D5133 /* MJRefreshComponent.m in Sources */,
 				1857FDAC1BDF6544001D5133 /* AFNateWorking.m in Sources */,

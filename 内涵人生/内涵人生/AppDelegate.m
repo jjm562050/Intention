@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 #import "MainTabBarController.h"
 #import "LeftViewController.h"
-#import "RightViewController.h"
+//#import "RightViewController.h"
 #import "MMDrawerController.h"
 #import "UMSocial.h"
 
